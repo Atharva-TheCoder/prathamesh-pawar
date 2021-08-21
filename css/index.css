@@ -53,7 +53,7 @@ body {
 .avatar {
    width: 100px;
    height: 100px;
-   border-radius: 50%;
+   border-radius: 25px;
    box-shadow: 5px 5px 10px var(--shadow-dark), -5px -5px 10px var(--shadow-light);
    display: block;
    margin: auto;
@@ -76,7 +76,7 @@ body {
 .social-icons {
    color: #00000080;
    background-color: var(--bg-color);
-   font-size: 18px;
+   font-size: 20px;
    padding: 7px;
    box-shadow: 3px 3px 7px var(--shadow-dark), -3px -3px 7px var(--shadow-light);
    border-radius: 50%;
